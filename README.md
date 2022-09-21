@@ -1,5 +1,5 @@
-# Nome do projeto
-Uai Local Nosso trabalho tem como objetivo ajudar microempreendedores a se comunicar com novos clientes, de forma que tenham mais acesso à plataforma virtual. Nosso site vai conectar empreendedores que não tem uma sede física a pessoas que procuram o tipo de serviço fornecido por eles, assim como vai facilitar que consumidores se conectem com os empresários.
+# Nome do projeto: Uai Local
+ Nosso trabalho tem como objetivo ajudar microempreendedores a se comunicar com novos clientes, de forma que tenham mais acesso à plataforma virtual. Nosso site vai conectar empreendedores que não tem uma sede física a pessoas que procuram o tipo de serviço fornecido por eles, assim como vai facilitar que consumidores se conectem com os empresários.
 
 ## Alunos integrantes da equipe
 * Ana Luiza Gonçalves
@@ -12,7 +12,9 @@ Uai Local Nosso trabalho tem como objetivo ajudar microempreendedores a se comun
 * Yan Silva
 
 ## Professores responsáveis
-Alexandre
+
+Alexandre Teixeira 
+
 Rommel
 
 
