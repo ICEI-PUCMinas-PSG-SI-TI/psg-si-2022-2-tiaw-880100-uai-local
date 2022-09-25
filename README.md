@@ -1,3 +1,8 @@
+<div align="center">
+ <img  width="350px" src="/docs/docs/relatorio/images/logo2_page-0001.jpg" alt=""/>
+</div>
+
+
 # Nome do projeto: Uai Local
  Nosso trabalho tem como objetivo ajudar microempreendedores a se comunicar com novos clientes, de forma que tenham mais acesso à plataforma virtual. Nosso site vai conectar empreendedores que não tem uma sede física a pessoas que procuram o tipo de serviço fornecido por eles, assim como vai facilitar que consumidores se conectem com os empresários.
 
@@ -19,5 +24,7 @@ Rommel
 
 
 ## Instruções de utilização
+
+
 
 <a ref="https://instagram.com/uailocal_?igshid=MDE2OWE1N2Q=>"> Instagram </a>
